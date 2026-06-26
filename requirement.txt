@@ -1,0 +1,3 @@
+xxstreamlit
+pandas
+openpyxl

@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": "2026-06-19T21:13:17.413186",
+    "first_name": "Cesqua ",
+    "last_name": "Ezra",
+    "email": "crist123@gmail.com",
+    "phone_number": "+6285600000868",
+    "message": "bla bla bla",
+    "contact_method": "WhatsApp"
+  },
+  {
+    "timestamp": "2026-06-19T21:14:47.191160",
+    "first_name": "momon",
+    "last_name": "mon",
+    "email": "momon123@gmail.com",
+    "phone_number": "+62 1234567890",
+    "message": "1234566",
+    "contact_method": "WhatsApp"
+  },
+  {
+    "timestamp": "2026-06-19T21:18:37.993171",
+    "first_name": "Cesqua",
+    "last_name": "Ezra",
+    "email": "cesqua123@gmail.com",
+    "phone_number": "+62 1234567",
+    "message": "12345566",
+    "contact_method": "Email"
+  },
+  {
+    "timestamp": "2026-06-19T21:18:39.158960",
+    "first_name": "Cesqua",
+    "last_name": "Ezra",
+    "email": "cesqua123@gmail.com",
+    "phone_number": "+62 1234567",
+    "message": "12345566",
+    "contact_method": "Email"
+  },
+  {
+    "timestamp": "2026-06-19T21:18:45.406916",
+    "first_name": "Cesqua",
+    "last_name": "Ezra",
+    "email": "cesqua123@gmail.com",
+    "phone_number": "+62 1234567",
+    "message": "12345566",
+    "contact_method": "Email"
+  },
+  {
+    "timestamp": "2026-06-19T21:18:50.091296",
+    "first_name": "Cesqua",
+    "last_name": "Ezra",
+    "email": "cesqua123@gmail.com",
+    "phone_number": "+62 1234567",
+    "message": "12345566",
+    "contact_method": "Both"
+  },
+  {
+    "timestamp": "2026-06-19T21:19:00.826933",
+    "first_name": "Cesqua",
+    "last_name": "Ezra",
+    "email": "cesqua123@gmail.com",
+    "phone_number": "+62 1234567",
+    "message": "12345566",
+    "contact_method": "Both"
+  },
+  {
+    "timestamp": "2026-06-19T21:19:10.405845",
+    "first_name": "Cesqua",
+    "last_name": "Ezra",
+    "email": "cesqua123@gmail.com",
+    "phone_number": "+62 1234567",
+    "message": "12345566",
+    "contact_method": "Email"
+  }
+]
